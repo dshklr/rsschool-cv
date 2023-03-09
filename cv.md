@@ -1,10 +1,10 @@
 # Daria Shkliar
 
-### dariashklr@gmail.com, +3712698406
+### dariashklr@gmail.com +3712698406
 
-## [LinkedIn](//https://www.linkedin.com/in/dshklr/)
+### [LinkedIn](//https://www.linkedin.com/in/dshklr/)
 
-## [GitHub](//https://github.com/dshklr)
+### [GitHub](//https://github.com/dshklr)
 
 ## About:
 
@@ -23,6 +23,8 @@
 
 ## My Projects:
 
-[Landing-page](//https://dshklr.github.io/landing-page/)
-[TODO](//https://dshklr-todo.netlify.app/)
-[Stopwatch](//https://dshklr.github.io/stopwatch/)
+### [Landing-page](//https://dshklr.github.io/landing-page/)
+
+### [TODO](//https://dshklr-todo.netlify.app/)
+
+### [Stopwatch](//https://dshklr.github.io/stopwatch/)
