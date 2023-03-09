@@ -6,15 +6,12 @@
 
 ## Skills:
 
-### <ul>
-
 <li>React</li>
 <li>JavaScript</li>
 <li>CSS</li>
 <li>HTML</li>
 <li>GIT</li>
 <li>English C2</li>
-</ul>
 
 ## My Projects:
 
